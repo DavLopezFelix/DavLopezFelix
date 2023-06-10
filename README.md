@@ -35,7 +35,7 @@ QA Enginner
 
 <p align="left"> <a href="https://www.github.com/DavLopezFelix" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dlopezfelix/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<h2 align="center">🎓 Languages & Frameworks & Tools & Abilities 🎓</h2>
+<h2 align="center">🎓 Badget 🎓</h2>
 <br>
 
 <a href="https://github.com/DavLopezFelix" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavLopezFelix&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
