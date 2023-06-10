@@ -3,8 +3,8 @@
 
 
 
-QA Enginner
------------
+<h2 align="center">:bust_in_silhouette: QA Engineer :bust_in_silhouette:</h2>
+<br>
 
 🎓 QA engineer with 6+ years of experience in manual and automated software testing.<br>
 📚 Proficient in utilizing Cypress for testing back-end systems and webpages, as well as Python and Selenium.<br>
