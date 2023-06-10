@@ -1,15 +1,15 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FCC1F&width=435&lines=Hello%2C+this+is+David" alt="Typing SVG" /></a></p>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Lopez Felix
-=========================================================================================================================================
+<p align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Lopez Felix</p>
+<p align="center">=========================================================================================================================================</p>
 
 QA Enginner
 -----------
 
-🎓 QA engineer with 6+ years of experience in manual and automated software testing.
-📚 Proficient in utilizing Cypress for testing back-end systems and webpages, as well as Python and Selenium.
-💻 Demonstrated expertise in designing, executing, and automating use cases to ensure comprehensive test coverage across various testing levels.
-📚Possesses strong analytical skills, exceptional communication abilities, and a goal-oriented approach.
+🎓 QA engineer with 6+ years of experience in manual and automated software testing.<br>
+📚 Proficient in utilizing Cypress for testing back-end systems and webpages, as well as Python and Selenium.<br>
+💻 Demonstrated expertise in designing, executing, and automating use cases to ensure comprehensive test coverage across various testing levels.<br>
+📚Possesses strong analytical skills, exceptional communication abilities, and a goal-oriented approach.<br>
 
 * 🌍  I'm based in Lima
 * ✉️  You can contact me at [dlopezf.19@gmail.com](mailto:dlopezf.19@gmail.com)
